@@ -1,9 +1,5 @@
 ## VirusKill v.3.0.5 👋
 
-**KQueen79/KQueen79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# VirusKill v3.0.5
-
 ![VirusKill Logo](imagenes/log.png)
 
 VirusKill es una herramienta antivirus de código abierto diseñada para proteger tu sistema de una variedad de amenazas de malware. Con una interfaz intuitiva y capacidades avanzadas de escaneo, VirusKill proporciona una solución de seguridad robusta y eficiente.
